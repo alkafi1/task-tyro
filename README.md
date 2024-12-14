@@ -141,7 +141,7 @@ These endpoints require a valid token in the `status: pendinng/complted/in-progr
         "description" : "New Task Description 1",
         "status" : "pending",
         "assigned_to_user_id" : "1"
-    }
+     }
      ```
 
 5. **Task Update**: 
